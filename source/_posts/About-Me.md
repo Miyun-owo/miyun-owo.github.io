@@ -22,7 +22,7 @@ tags:
 
 ### 個人連結
 - [GitHub | 各專案原始碼](https://github.com/Miyun-owo)
-- [itch.io | 小遊戲及動畫](https://miyuns-game-lab.itch.io/)
+- [itch.io | 小遊戲及動畫](https://miyuns-game-lab.itch.io)
 - [方格子vocus | 文學靈魂的潛藏處](https://vocus.cc/user/@meowmeowiamneko)
 - Discord : miyun._.
 
