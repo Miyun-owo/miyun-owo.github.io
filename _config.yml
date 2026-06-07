@@ -102,4 +102,6 @@ theme: reimu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Miyun-owo/miyun-owo.github.io.git
+  branch: main
