@@ -16,7 +16,7 @@ tags:
 - 前端設計 Front-end Dev.
 - 新媒體藝術 New Media Art
 - 硬筆書法 Calligraphy
-- 不會競程QAQ 
+- 不會競程 QAQ 
 
 ### 社群經營
 - [中學生遊戲開發群 HSGDG](https://discord.gg/U26UPKMV)
